@@ -1,2 +1,4 @@
 1. Defect 1
 2. Defect 2
+3. Topic 3 needs more clarity on something!!
+4. Topic 1 is missing a group member info!!
